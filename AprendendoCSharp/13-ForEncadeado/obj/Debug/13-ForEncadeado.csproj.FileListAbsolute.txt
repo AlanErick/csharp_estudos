@@ -1,0 +1,6 @@
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe.config
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.pdb
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.pdb

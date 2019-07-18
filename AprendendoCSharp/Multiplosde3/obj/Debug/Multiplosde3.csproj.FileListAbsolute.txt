@@ -1,0 +1,6 @@
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\bin\Debug\Multiplosde3.exe.config
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\bin\Debug\Multiplosde3.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\bin\Debug\Multiplosde3.pdb
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\obj\Debug\Multiplosde3.csproj.CoreCompileInputs.cache
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\obj\Debug\Multiplosde3.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\Multiplosde3\obj\Debug\Multiplosde3.pdb

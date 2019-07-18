@@ -1,0 +1,7 @@
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\bin\Debug\4-ByteBank.exe.config
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\bin\Debug\4-ByteBank.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\bin\Debug\4-ByteBank.pdb
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\obj\Debug\4-ByteBank.csprojAssemblyReference.cache
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\obj\Debug\4-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\obj\Debug\4-ByteBank.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharpPOO\4-ByteBank\obj\Debug\4-ByteBank.pdb

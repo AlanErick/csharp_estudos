@@ -1,0 +1,6 @@
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\ExercicioAliquota.exe.config
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\ExercicioAliquota.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\ExercicioAliquota.pdb
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\ExercicioAliquota.csproj.CoreCompileInputs.cache
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\ExercicioAliquota.exe
+C:\Users\alan.erick\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\ExercicioAliquota.pdb
