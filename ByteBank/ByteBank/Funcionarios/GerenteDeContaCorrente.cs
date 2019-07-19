@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    public class Diretor : Funcionario// Os DOIS PONTOS indicam Herança de código
+    public class GerenteDeContaCorrente : Funcionario
     {
-        public Diretor(double salario, string cpf) : base(cpf, 5000)
+        public GerenteDeContaCorrente(string cpf, double salario) : base(cpf, 1000)
         {
-            
-        }
 
-        public override void AumentarSalario()//para realizar a sobrecarga
+        }
+        public override void AumentarSalario()
         {
-            Salario *= 1.15;
+            Salario *= 1.2;
         }
 
         public override double GetBonificacao()
