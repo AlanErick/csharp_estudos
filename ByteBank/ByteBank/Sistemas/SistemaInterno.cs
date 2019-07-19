@@ -1,22 +1,21 @@
 ﻿using ByteBank.Funcionarios;
-using ByteBank.Sistemas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBank.Sistema
+namespace ByteBank.Sistemas
 {
     public class SistemaInterno
     {
-        public bool Logar(Autenticavel usuario, string senhaTentativa)
+        public bool Logar(IAutenticavel funcionario, string senha)
         {
-            bool usuarioAutenticado = usuario.Autenticar(senhaTentativa); 
+            bool usuarioAutenticado = funcionario.Autenticar(senha);
 
             if(usuarioAutenticado)
             {
-                Console.WriteLine("Bem-vindo usuário!");
+                Console.WriteLine("Bem-vindo ao sistema!");
                 return true;
             }
             else
@@ -25,7 +24,5 @@ namespace ByteBank.Sistema
                 return false;
             }
         }
-
-
     }
 }

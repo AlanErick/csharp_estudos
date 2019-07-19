@@ -8,24 +8,22 @@ namespace ByteBank.Funcionarios
 {
     public abstract class Funcionario
     {
-        public static int TotalFuncionarios { get; private set; } //static pois é uma propriedade da classe
+        public static int TotalDeFuncionarios { get; private set; }
+
         public string Nome { get; set; }
         public string CPF { get; private set; }
-        public virtual double Salario { get; protected set; }
-
-        public Funcionario(string cpf, double salario) //construtor
+        public double Salario { get; protected set; }
+        
+        public Funcionario(double salario, string cpf)
         {
+            Console.WriteLine("Criando FUNCIONARIO");
+
+            CPF = cpf;
             Salario = salario;
-            CPF = cpf;
-            TotalFuncionarios++;
-        }
 
-        public Funcionario(string cpf) //Construtor quando o funcionário não é declarado
-        {
-            CPF = cpf;
-            Salario = 1000;
+            TotalDeFuncionarios++;
         }
-
+        
         public abstract void AumentarSalario();
 
         public abstract double GetBonificacao();
